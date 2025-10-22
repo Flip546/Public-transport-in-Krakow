@@ -11,5 +11,5 @@
    - Tasks: 2, 4
 
 3. **Mikołaj Chyliński**  
-   - GitHub: [mikolajjjpg](https://github.com/mikolajjjpg)  
+   - GitHub: [mikolajjjpg](https://github.com/mikolajjpg)  
    - Tasks: 5, 6
