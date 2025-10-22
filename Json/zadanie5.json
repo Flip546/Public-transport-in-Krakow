@@ -1,0 +1,44 @@
+[
+  {
+    "typ": "tramwaj",
+    "numer": "3",
+    "trasa": "Nowa Huta - Stare Miasto",
+    "czestotliwosc_min": 10,
+    "czynna": true
+  },
+  {
+    "typ": "tramwaj",
+    "numer": "8",
+    "trasa": "Bieńczyce - Bronowice",
+    "czestotliwosc_min": 12,
+    "czynna": true
+  },
+  {
+    "typ": "tramwaj",
+    "numer": "24",
+    "trasa": "Krowodrza Górka - Kurdwanów",
+    "czestotliwosc_min": 15,
+    "czynna": true
+  },
+  {
+    "typ": "autobus",
+    "numer": "124",
+    "trasa": "Rondo Matecznego - Mistrzejowice",
+    "czestotliwosc_min": 20,
+    "czynna": true
+  },
+  {
+    "typ": "autobus",
+    "numer": "179",
+    "trasa": "Podgórze - Nowa Huta",
+    "czestotliwosc_min": 25,
+    "czynna": true
+  },
+  {
+    "typ": "autobus",
+    "numer": "304",
+    "trasa": "Centrum - Zabierzów",
+    "czestotliwosc_min": 30,
+    "czynna": true
+  }
+]
