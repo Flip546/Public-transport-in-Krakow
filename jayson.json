@@ -1,0 +1,42 @@
+[
+ { "typ":"tram",
+   "number":"3",
+   "direction":"Kraków główny",
+   "average delay":"1min",
+   "crowding level":"medium"
+},
+ { "typ":"bus",
+   "number":"139",
+   "direction":"Kraków Czyżyny",
+   "average delay":"10min",
+   "crowding level":"high"
+},
+{  "typ":"tram",
+   "number": "50",
+   "direction":"Maki",
+   "average delay":"3min",
+   "crowding level":"medium"
+
+},
+{  "typ":"bus",
+   "number":"510",
+   "direction":"Kraków południe",
+   "average delay":"15min",
+   "crowding level":"low"
+
+},
+{  "typ":"tram",
+   "number":"15",
+   "direction":"Dworzec towarowy",
+   "average delay":"3min",
+   "crowding level":"medium"
+
+},
+{  "typ":"bus",
+   "number":"396",
+   "direction":"Politechnika",
+   "average delay":"7min",
+   "crowding level":"medium"
+
+}
+]
