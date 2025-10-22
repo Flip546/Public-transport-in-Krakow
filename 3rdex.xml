@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<public >
+    <vehicle>
+        <model nation="Germany" size="Large">XTR12</model>
+        <year month="January" day="16">2011</year>
+        <fuel price="6,02PLN" ecofriedly="no">Diesel</fuel>
+        <standard cost="cheap" access="easy">medium</standard>
+    </vehicle>
+
+    <vehicle>
+        <model nation="Sweden" size="X-Large">Kranvagen2II-S</model>
+        <year month="March" day="11">2001</year>
+        <fuel price="5,82PLN" ecofriedly="no">Petrol</fuel>
+        <standard cost="cheap" access="easy">low</standard></vehicle>
+
+        <vehicle> 
+            <model nation="USA" size="Medium">Speed4K</model>
+        <year month="June" day="22">2025</year>
+        <fuel price="2PLN" ecofriedly="yes">electricity</fuel>
+        <standard cost="expensive" access="hard">high</standard></vehicle>
+        
+
+        <vehicle>
+            <model nation="Netherlands" size="Large">MK-21XL</model>
+        <year month="December" day="21">2018</year>
+        <fuel price="6,02PLN" ecofriedly="yes">Diesel</fuel>
+        <standard cost="medium" access="medium">high</standard></vehicle>
+
+
+        <vehicle>
+            <model nation="China" size="Small">Volt-III</model>
+        <year month="May" day="19">2023</year>
+        <fuel price="2PLN" ecofriedly="yes">electricity</fuel>
+        <standard cost="expensive" access="hard">high</standard></vehicle>
+        
+
+        <vehicle>
+            <model nation="France" size="Medium">TKL22</model>
+            <year month="April" day="1">2011</year>
+            <fuel price="5,82PLN" ecofriedly="no">Petrol</fuel>
+            <standard cost="low" access="easy">medium</standard>
+
+        </vehicle>
+    
+</public> 
