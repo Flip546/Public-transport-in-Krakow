@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<public >
+    <vehicle>
+        <model>XRV-12</model>
+        <year>2011</year>
+        <fuel>Diesel</fuel>
+        <standard>medium</standard>
+    </vehicle>
+
+    <vehicle>
+        <model>Kranvagen2II-S</model>
+        <year>2001</year>
+        <fuel>Petrol</fuel>
+        <standard>low</standard></vehicle>
+
+        <vehicle> <model>Speed4K</model>
+        <year>2025</year>
+        <fuel>electricity</fuel>
+        <standard>high</standard></vehicle>
+        
+
+        <vehicle>
+            <model>MK-21XL</model>
+        <year>2018</year>
+        <fuel>Diesel</fuel>
+        <standard>high</standard></vehicle>
+
+
+        <vehicle>
+            <model>Volt-III</model>
+        <year>2023</year>
+        <fuel>electricity</fuel>
+        <standard>high</standard></vehicle>
+        
+
+        <vehicle>
+            <model>TKL22</model>
+            <year>2011</year>
+            <fuel>Petrol</fuel>
+            <standard>medium</standard>
+
+        </vehicle>
+    
+</public> 
