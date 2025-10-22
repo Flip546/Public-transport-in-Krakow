@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transport>
+    <linia>
+        <typ>tramwaj</typ>
+        <kierunek>Nowa Huta-Rondo Mogilskie</kierunek>
+        <numer>4</numer>
+        <czestotliwosc>co 10 min</czestotliwosc>
+    </linia>
+   <linia>
+    <typ>tramwaj</typ>
+    <kierunek>Bajkolandia-Kowalskiego</kierunek>
+    <numer>9</numer>
+    <czestotliwosc>co 5 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ>tramwaj</typ>
+    <kierunek>Boska-Mierzejowice</kierunek>
+    <numer>1</numer>
+    <czestotliwosc>co 7 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ>autobus</typ>
+    <kierunek>Bombowa-Leśna</kierunek>
+    <numer>3</numer>
+    <czestotliwosc>co 15 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ>tramwaj</typ>
+    <kierunek>Szalona-Kotowa</kierunek>
+    <numer>0</numer>
+    <czestotliwosc>co 7 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ>autobus</typ>
+    <kierunek>Lizakowa-Kolejowa</kierunek>
+    <numer>21</numer>
+    <czestotliwosc>co 4 min</czestotliwosc>
+   </linia>
+</Transport>
