@@ -1,0 +1,6 @@
+Line, Type, Average delay(min), Crowding level 
+50, Tram, 1 min,low
+12,Bus,3 min,high
+1,Bus,10 min,medium
+3,Tram,2 min,medium,
+139,Bus,15 min, high
