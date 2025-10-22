@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krakowTransport>
+  <line1>
+    <type>Bus</type>
+    <number>125</number>
+    <startStation>Dworzec Glowny Wschod</startStation>
+    <endStation>Zlocien</endStation>
+  </line1>
+  <line2>
+    <type>Tram</type>
+    <number>52</number>
+    <startStation>Czerwone Maki P+R</startStation>
+    <endStation>Osiedle Piastow</endStation>
+  </line2>
+  <line3>
+    <type>Bus</type>
+    <number>144</number>
+    <startStation>Nowy Biezanow P+R</startStation>
+    <endStation>Maly Plaszow</endStation>
+  </line3>
+  <line4>
+    <type>Tram</type>
+    <number>8</number>
+    <startStation>Krowodrza Gorka</startStation>
+    <endStation>Cmentarz Rakowicki</endStation>
+  </line4>
+  <line5>
+    <type>Bus</type>
+    <number>304</number>
+    <startStation>Dworzec Glowny Wschod</startStation>
+    <endStation>Biezanow Nowy</endStation>
+  </line5>
+  <line6>
+    <type>Tram</type>
+    <number>24</number>
+    <startStation>Bronowice</startStation>
+    <endStation>Kopiec Wandy</endStation>
+  </line6>
+</krakowTransport>
