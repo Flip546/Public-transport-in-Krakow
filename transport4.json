@@ -1,0 +1,14 @@
+{
+  "line": "125",
+  "type": "Bus",
+  "Active": true,
+  "ticketPrice": 2.5,
+  "capacity": 80,
+  "startStation": "Dworzec Glowny Wschod",
+  "endStation": "Zlocien",
+  "platform":3,
+  "schedule": {
+    "weekday": ["06:00", "07:00", "08:00", "09:00"],
+    "weekend": ["08:00", "09:30", "11:00"]
+  }
+}
