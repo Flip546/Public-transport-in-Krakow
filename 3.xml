@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transport>
+    <linia>
+        <typ kategoria="pojazd" Dostępność="tak">tramwaj</typ>
+        <kierunek start="Nowa Huta" Koniec="Rondo Mogilskie">Nowa Huta-Rondo Mogilskie</kierunek>
+        <numer nocny="Nie" kod="SD123">4</numer>
+        <czestotliwosc minuty="10" godzinyszczytu="7:00-9:00">co 10 min</czestotliwosc>
+    </linia>
+   <linia>
+    <typ kategoria="pojazd" Dostępność="tak">tramwaj</typ>
+    <kierunek start="Bajkolandia" Koniec="Kowalskiego">Bajkolandia-Kowalskiego</kierunek>
+    <numer nocny="Nie" kod="H4123">9</numer>
+    <czestotliwosc  minuty="5" godzinyszczytu="7:30-8:30">co 5 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ kategoria="pojazd" Dostępność="tak">tramwaj</typ>
+    <kierunek start="Boska" Koniec="Mierzejowice">Boska-Mierzejowice</kierunek>
+    <numer nocny="Nie" kod="Sasw1">1</numer>
+    <czestotliwosc  minuty="7" godzinyszczytu="9:00-10:00">co 7 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ kategoria="pojazd" Dostępność="tak">autobus</typ>
+    <kierunek start="Bombowa" Koniec="Leśna">Bombowa-Leśna</kierunek>
+    <numer nocny="Nie" kod="KSA23">3</numer>
+    <czestotliwosc  minuty="15" godzinyszczytu="8:00-12:00">co 15 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ kategoria="pojazd" Dostępność="tak">tramwaj</typ>
+    <kierunek start="Szalona" Koniec="Kotowa">Szalona-Kotowa</kierunek>
+    <numer nocny="Nie" kod="O2DS3">0</numer>
+    <czestotliwosc  minuty="7" godzinyszczytu="12:00-14:00">co 7 min</czestotliwosc>
+   </linia>
+   <linia>
+    <typ kategoria="pojazd" Dostępność="tak">autobus</typ>
+    <kierunek start="Lizakowa" Koniec="Kolejowa">Lizakowa-Kolejowa</kierunek>
+    <numer nocny="Nie" kod="S27H3">21</numer>
+    <czestotliwosc  minuty="4" godzinyszczytu="9:00-11:00">co 4 min</czestotliwosc>
+   </linia>
+</Transport>
