@@ -1,0 +1,6 @@
+Type, Line, Start Station, End Station, Duration (in minutes)
+Bus, 125, Dworzec Glowny Wschod, Zlocien, 15
+Tram, 52, Czerwone Maki P+R, Osiedle Piastow, 20
+Bus , 144, Nowy Biezanow P+R, Maly Plaszow, 12
+Tram, 8, Krowodrza Gorka, Cmentarz Rakowicki, 10
+Bus, 304, Dworzec Glowny Wschod, Biezanow Nowy, 18
