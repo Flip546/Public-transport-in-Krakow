@@ -1,0 +1,17 @@
+{
+    "line" : "139",
+    "type" : "bus",
+    "location" : "New Hut",
+    "active" : true,
+    "price" : 3.5,
+    "capacity": 100,
+    "number" : 2424,
+    "schedule" : {
+    "weekday" : ["7:35", "11:15", "14:20"],
+    "weekend" : ["9:00", "13:00"]
+
+}
+
+
+
+}
