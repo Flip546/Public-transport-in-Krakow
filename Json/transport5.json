@@ -1,0 +1,44 @@
+[
+{
+    "line": "125",
+    "type": "Bus",
+    "startStation": "Dworzec Glowny Wschod",
+    "endStation": "Zlocien",
+    "Active": true
+  },
+  {
+    "line": "144",
+    "type": "Bus",
+    "startStation": "Nowy Biezanow P+R",
+    "endStation": "Maly Plaszow",
+    "Active": true
+  },
+  {
+    "line": "304",
+    "type": "Bus",
+    "startStation": "Dworzec Glowny Wschod",
+    "endStation": "Biezanow Nowy",
+    "Active": true
+  },
+  {
+    "line": "52",
+    "type": "Tram",
+    "startStation": "Czerwone Maki P+R",
+    "endStation": "Osiedle Piastow",
+    "Active": true
+  },
+  {
+    "line": "8",
+    "type": "Tram",
+    "startStation": "Krowodrza Gorka",
+    "endStation": "Cmentarz Rakowicki",
+    "Active": true
+  },
+  {
+    "line": "24",
+    "type": "Tram",
+    "startStation": "Bronowice",
+    "endStation": "Kopiec Wandy",
+    "Active": true
+  }
+]
